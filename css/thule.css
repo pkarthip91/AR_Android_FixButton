@@ -695,9 +695,9 @@ input[type=range]::-webkit-slider-thumb {
     min-width: 100%;
     cursor: pointer;
 }
-/* .equel-grid.active-grid .grid, .equel-grid .grid:hover{
+.equel-grid.active-grid .grid{
     border: 1px solid #ff0f0f;
-} */
+}
 
 .equel-grid.active-grid .grid:after{
     content: "";
