@@ -168,8 +168,7 @@ $("#ar-button").click(function () {
 
     // Animation List 
     var animationList =
-      ["pos0",
-        "pos1",
+      [
         "pos45",
         "pos50",
         "pos60",
